@@ -2,4 +2,4 @@ project: libde265
 target: dec265
 
 cmds:
-  - cmd: /repo/dec265/.libs/dec265 @@
+  - cmd: /install/bin/dec265 @@
