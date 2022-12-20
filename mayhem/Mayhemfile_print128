@@ -1,0 +1,6 @@
+project: libde265
+target: print128
+
+cmds:
+  - cmd: /fuzz_print128
+    libfuzzer: true
